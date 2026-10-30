@@ -14,8 +14,8 @@
 | Варіант вхідних умов | V07 |
 | Трекер | https://github.com/oleninbr/pm-2026-kn42-olenin/issues |
 | Дошка | https://github.com/users/oleninbr/projects/1 (беклог і спринти), https://github.com/users/oleninbr/projects/2 (ЛР4) |
-| Валюта проєкту | |
-| Contingency, % | |
+| Валюта проєкту | грн |
+| Contingency, % | 10 |
 
 ### Про проєкт
 

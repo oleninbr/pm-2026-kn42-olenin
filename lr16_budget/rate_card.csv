@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.25,100,460,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,Медіана проджект-менеджменту $2500 проти $3500 у розробників: 0.71 ставки Dev
+BA,0.5,200,460,https://dou.ua/lenta/articles/salary-report-data-summer-2026/,Аналітики в ІТ-компаніях від $2475: 0.71 ставки Dev; бізнес-аналітик рахується за ставкою PM
+Dev,1.0,400,650,https://jobs.dou.ua/salaries/,Медіана Software Engineering $3500 за червень 2026; найдорожча роль і 50% годин команди
+QA,0.25,100,500,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/,Медіана General QA $2700: 0.77 ставки Dev
