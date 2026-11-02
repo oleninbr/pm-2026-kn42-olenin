@@ -50,3 +50,15 @@ S-18,1,pessimistic,8
 S-19,1,optimistic,1
 S-19,1,likely,2
 S-19,1,pessimistic,3
+S-01,3,optimistic,3
+S-01,3,likely,5
+S-01,3,pessimistic,8
+S-02,2,optimistic,1
+S-02,2,likely,1
+S-02,2,pessimistic,2
+S-20,1,optimistic,2
+S-20,1,likely,3
+S-20,1,pessimistic,5
+S-21,1,optimistic,1
+S-21,1,likely,1
+S-21,1,pessimistic,2
