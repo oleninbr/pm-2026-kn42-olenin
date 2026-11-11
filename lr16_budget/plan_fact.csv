@@ -1,1 +1,3 @@
 sprint,planned_points,actual_points,planned_cost_per_point,actual_cost_per_point,variance_pct,source_file,note
+1,10,5,8960,17920,100,lr03_sprint_simulation/sprints.md,"Тиждень простою 2026-10-17 … 2026-10-25 і блокер S-14 залишили закритими лише S-16 і S-03."
+2,10,3,8960,29867,233.3,lr03_sprint_simulation/sprints.md,"S-14 (3 з 6 узятих points) 16 днів чекала підтвердження деканату і перейшла в спринт 3."
